@@ -69,7 +69,7 @@ main {
   height: 4px;
 }
 
-.card h2 {
+.card h3 {
   color: hsl(234, 12%, 34%);
   font-size: 1.25rem;
   margin-bottom: 0.5rem;
